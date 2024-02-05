@@ -1,0 +1,2 @@
+Notes:
+[] write your first program in c++
